@@ -7,7 +7,7 @@ This is a small homework project focused on regularization techniques for fully 
 - Simple Feedforward Neural Net (FFNN) trained on 200 samples
 - Regularization via:
   - Early Stopping (based on validation loss)
-  - Dropout (p = 0.8)
+  - Dropout (p = 0.16)
 - Visualized training/validation losses
 - Test accuracy comparison for both methods
 
