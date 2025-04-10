@@ -1,7 +1,3 @@
-import sys
-import os
-sys.path.append(os.path.abspath('../plots')) # crutch for notebook (demo project anyway)
-
 from itertools import product
 from typing import Callable
 
